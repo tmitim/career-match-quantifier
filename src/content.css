@@ -1,0 +1,14 @@
+/* src/content.css */
+.my-extension {
+  background-color: rgba(255, 255, 255, 0.975);
+  padding: 40px;
+  box-shadow: 0px 0px 5px black;
+  overflow: scroll;
+  max-height: 750px;
+}
+
+.my-extension-empty {}
+
+.my-extension h1 {
+  color: #000;
+}

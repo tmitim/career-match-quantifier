@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "./config/",
+    "./src/",
+    "./package.json",
+    "./server.js",
+    "./.env",
+    "./public/"
+  ],
+  "verbose": true
+}
